@@ -4,6 +4,6 @@
   "private": true,
   "description": "Tests dependency ranges for LangChain.",
   "dependencies": {
-    "semver": "^7.5.4"
+    "semver": "^7.7.1"
   }
 }
