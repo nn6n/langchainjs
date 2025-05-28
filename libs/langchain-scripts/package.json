@@ -41,7 +41,7 @@
   "author": "LangChain",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^21.0.2",
+    "@octokit/rest": "^22.0.0",
     "@rollup/wasm-node": "^4.19.0",
     "axios": "^1.6.7",
     "commander": "^11.1.0",
