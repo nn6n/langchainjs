@@ -43,7 +43,7 @@
     "@langchain/baidu-qianfan": "workspace:*",
     "@langchain/cloudflare": "workspace:*",
     "@langchain/cohere": "workspace:*",
-    "@langchain/community": "workspace:*",
+    "@langchain/community": "0.0.0",
     "@langchain/core": "workspace:*",
     "@langchain/exa": "workspace:*",
     "@langchain/google-common": "workspace:*",
